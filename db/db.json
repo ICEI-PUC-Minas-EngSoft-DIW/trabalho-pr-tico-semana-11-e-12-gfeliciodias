@@ -1,18 +1,36 @@
 {
-  "usuarios": [
+  "roupas": [
     {
-      "id": "187cb7e5-e097-4224-8bc7-b610c855e2b1",
-      "login": "admin",
-      "senha": "123",
-      "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
+      "id": "1",
+      "nome": "Camiseta Oversized",
+      "descricao": "Camiseta de algodão com corte moderno.",
+      "tamanho": "M",
+      "preco": 79.9,
+      "imagem": "https://via.placeholder.com/200x200?text=Camiseta"
     },
     {
-      "id": "ec37c83d-4b7f-458d-9e10-3fda7d37cd3e",
-      "login": "user",
-      "senha": "123",
-      "nome": "Usuario Comum",
-      "email": "user@abc.com"
+      "id": "2",
+      "nome": "Calça Jeans Skinny",
+      "descricao": "Calça jeans com elastano e lavagem média.",
+      "tamanho": "42",
+      "preco": 129.9,
+      "imagem": "https://via.placeholder.com/200x200?text=Calça+Jeans"
+    },
+    {
+      "id": "3",
+      "nome": "Jaqueta de Couro",
+      "descricao": "Jaqueta sintética forrada, estilo urbano.",
+      "tamanho": "G",
+      "preco": 299.9,
+      "imagem": "https://via.placeholder.com/200x200?text=Jaqueta"
+    },
+    {
+      "id": "cd14",
+      "nome": "Camisa polo",
+      "descricao": "Camisa polo jlessges\\kjg\\skjgesgs\\g\\esjk",
+      "tamanho": "G",
+      "preco": 255,
+      "imagem": "https://www.lojamirante.com.br/p/camisas-polo/polo-piquet-pa-masculina/unit/kit-3-camisas-polo-piquet-masculinas-5?gad_source=1&gad_campaignid=22937875806&gbraid=0AAAAADLX410JGy1mkzo8hqpXlFRpT7SpZ&gclid=Cj0KCQjwgpzIBhCOARIsABZm7vFn35Ze0-GB45PJMSbTYV_PQloAGZPxIr_M1FxPdENy_cfG8Lnuwt0aArE1EALw_wcB"
     }
   ]
 }

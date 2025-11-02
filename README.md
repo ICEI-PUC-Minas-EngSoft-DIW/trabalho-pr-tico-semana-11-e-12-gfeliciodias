@@ -6,24 +6,16 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Gabriel Felicio Dias  
+- Matricula: 815710
+- Proposta de projeto escolhida: Loja de roupa
+- Breve descrição sobre seu projeto: Uma loja de roupa que voce adciona os itens desejados
 
 **Print dos testes da API com Postman ou similar**
 
-<< COLOQUE A IMAGEM GET AQUI >>
-
-<< COLOQUE A IMAGEM POST AQUI >>
-
-<< COLOQUE A IMAGEM PUT AQUI >>
-
-<< COLOQUE A IMAGEM DELETE AQUI >>
-
-**Print da aba NETWORK com requisições Fetch/XHR POST e GET**
-
-<<  COLOQUE A IMAGEM AQUI >>
+<img src="../trabalho-pr-tico-semana-11-e-12-gfeliciodias/images/img1.png" alt="Meu Logo" width="200">
+<img src="../trabalho-pr-tico-semana-11-e-12-gfeliciodias/images/img2.png" alt="Meu Logo" width="200">
+<img src="../trabalho-pr-tico-semana-11-e-12-gfeliciodias/images/img3.png" alt="Meu Logo" width="200">
 
 ## **Orientações Gerais**
 
